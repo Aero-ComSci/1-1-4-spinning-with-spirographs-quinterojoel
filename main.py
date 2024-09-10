@@ -4,23 +4,23 @@ screen.bgcolor("white")
 painter = trtl.Turtle()
 painter.speed("fastest")
 
-size = 1000
+size = 800
 color = "white"
-x = 100
-y = 100
+x = -400
+y = 400
 origin = (x, y)
 
-for i in range (100):
+for i in range (160):
     painter.penup()
     painter.goto(origin)
     if color == "black":
         color = "white"
     else:
         color = "black"
-    x = x + 5
-    y = y - 5
+    x = x + 2.5
+    y = y - 2.5
     origin = (x, y)
-    size = size - 10
+    size = size - 5
     painter.color(color)
     painter.begin_fill()
     painter.pendown()
