@@ -4,19 +4,23 @@ screen.bgcolor("white")
 painter = trtl.Turtle()
 painter.speed("fastest")
 
-size = 20
-color = "black"
-x = 0
-y = 0
+size = 1000
+color = "white"
+x = 100
+y = 100
 origin = (x, y)
 
-while True:
+for i in range (100):
     painter.penup()
     painter.goto(origin)
-    x = x - 10
-    y = y + 10
+    if color == "black":
+        color = "white"
+    else:
+        color = "black"
+    x = x + 5
+    y = y - 5
     origin = (x, y)
-    size = size + 20
+    size = size - 10
     painter.color(color)
     painter.begin_fill()
     painter.pendown()
@@ -24,3 +28,6 @@ while True:
         painter.forward(size)
         painter.right(90)
     painter.end_fill()
+
+painter.hideturtle()
+screen.mainloop()
