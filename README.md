@@ -38,7 +38,15 @@ Use the forward() and right() methods to draw the sides of the squares.
 6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
 7. Give an example of an undecidable problem, attach code.
 
-Pictures:
+## Questions:
+
+1) Zero-iteration conditions in Python result in a loop body not executing at all because the initial condition is false, while infinite loops run endlessly because the condition always evaluates to true. Zero-iteration conditions are useful for scenarios where a loop is set up but doesn't need to run immediately, whereas infinite loops are used for continuous execution until externally interrupted.
+2) https://drive.google.com/file/d/1gmWFbYjT3CSDpUVfXE2btjVuPSyDWa3g/view?usp=sharing
+3) Scroll down for pictures.
+4) 
+
+
+## Pictures:
 ![image](https://github.com/user-attachments/assets/d2d502e7-4324-40c0-8f06-920bfa9bf03c)
 
 
