@@ -43,11 +43,12 @@ Use the forward() and right() methods to draw the sides of the squares.
 1) Zero-iteration conditions in Python result in a loop body not executing at all because the initial condition is false, while infinite loops run endlessly because the condition always evaluates to true. Zero-iteration conditions are useful for scenarios where a loop is set up but doesn't need to run immediately, whereas infinite loops are used for continuous execution until externally interrupted.
 2) https://drive.google.com/file/d/1gmWFbYjT3CSDpUVfXE2btjVuPSyDWa3g/view?usp=sharing
 3) Scroll down for pictures.
-4) 
+4) Scroll down for pictures.
 
 
 ## Pictures:
 ![image](https://github.com/user-attachments/assets/d2d502e7-4324-40c0-8f06-920bfa9bf03c)
+![image](https://github.com/user-attachments/assets/d50c68c3-52fa-4662-8e72-d638782cedac)
 
 
 
