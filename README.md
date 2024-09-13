@@ -44,7 +44,8 @@ Use the forward() and right() methods to draw the sides of the squares.
 2) https://drive.google.com/file/d/1gmWFbYjT3CSDpUVfXE2btjVuPSyDWa3g/view?usp=sharing
 3) Scroll down for pictures.
 4) Scroll down for pictures.
-
+5) This represents the program earlier in this activity that was modified to avoid a zero iteration condition and draw five circles.
+6) 6)1.1.4 is broken at the moment, I will have it fixed sometime soon.
 
 ## Pictures:
 ![image](https://github.com/user-attachments/assets/d2d502e7-4324-40c0-8f06-920bfa9bf03c)
